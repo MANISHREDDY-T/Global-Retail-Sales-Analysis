@@ -122,7 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Dataset source: [5M Sales Records](link-to-dataset)
+- Dataset source: [5M Sales Records](https://www.kaggle.com/datasets/weitat/sample-sales) and https://www.kaggle.com/datasets/jamesmuema/retail-sales/data
 - PySpark and Python data science community
 - Contributors and reviewers
 
